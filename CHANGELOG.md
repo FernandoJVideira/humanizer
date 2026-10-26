@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.2.0
+
+- Added pattern #3, "The same point twice": a sentence that restates the one before it, a section that previews its content and recaps it, a heading echoed by its first sentence, twin words for one idea, and the same claim in a lead, a bullet, and a closer. It folds in the old #24 (a heading repeated in the first sentence). Patterns #3 to #23 moved up one number (now #4 to #24); #25 and #26 keep their numbers. 26 patterns total.
+- "How to work" now lists each fact the text states, so a repeat is found across paragraphs and not only in neighboring sentences. The draft keeps each claim once, and the final check looks for repeats that were reworded instead of cut.
+- Added the "Echo" account to "Why AI text sounds the way it does", and a note in "When not to act" that deliberate repetition (a refrain, a requested summary, an abstract) stays.
+
 ## 3.1.0
 
 - Added pattern #26 and section F for replies that re-explain context the reader already has (#269). It acts on replies, not standalone writing. 26 patterns total.
